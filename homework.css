@@ -1,0 +1,66 @@
+.navbar-brand{
+    text-decoration: none;
+    color: black;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.share{
+    text-align: center;
+}
+.navbar-header {
+    max-width: 100%;
+    text-align: center;
+    background-color: white;
+    height: 44px;
+    padding-top: 0px;
+    margin-top: 111px;
+    margin-bottom: 80px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.jumbotron {
+    width: fit-content;
+    background-image: url(wallpaper2.jpg);
+    background-size: cover;
+    margin: auto;
+}
+body{
+    /* background-image: url(nicecatch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto; */
+    background-color: #FFC0CB;
+}
+.jumbotron2 {
+    max-width: 100%;
+    background-image: url(result3.jpeg);
+    margin: auto;
+}
+input[type="text"] {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+}
+textarea{
+    margin-left: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+input[type="submit"] {
+    margin-left: 115px;
+    font-family: impact;
+}
+label {
+    font-family: impact;
+}
+.comments{
+    font-family: impact;
+    font-size: medium;
+}
